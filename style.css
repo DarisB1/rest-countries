@@ -62,19 +62,22 @@ input {
 
 .pays {
     background-color: #fff;
-    margin: 0 4rem 4rem 0;
-    margin-bottom: 2rem;
-    border-radius: 12px;
+    margin: 0 4rem 4rem 2rem;
+    border-radius: 5px;
 }
 
 .drapeau {
     border-radius: 5px 5px 0 0;
     width: 100%;
-
 }
 
 .div-info {
-    padding: 0 1.5rem;
+    padding: 0 0 2rem 1.5rem;
+    line-height: 25px;
+}
+
+span {
+    font-weight: 500;
 }
 
 h2 {
